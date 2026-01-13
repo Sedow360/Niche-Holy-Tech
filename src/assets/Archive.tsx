@@ -268,7 +268,7 @@ export default function Archive() {
         style={{ 
           position: 'absolute', 
           top: 20, 
-          right: 180,  // Position it left of unsubscribe button
+          right: 200,  // Position it left of unsubscribe button
           padding: '8px 16px',
           backgroundColor: '#6c757d',
           color: '#fff',
