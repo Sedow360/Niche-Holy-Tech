@@ -24,7 +24,7 @@ interface Subscriber {
 const API = {
   adminAuth: "https://4sbs43rmtb37sfmitzuxoarqoi0wbibv.lambda-url.us-east-1.on.aws/",
   createPost: "https://zxgv2ztejlxjh6hzajujbow5bu0krysv.lambda-url.us-east-1.on.aws/",
-  listPosts: "https://xb7axhfvx3iavilpqwggprjvme0isreh.lambda-url.us-east-1.on.aws/",
+  listPosts: "https://m576x5sgc6uxmh57j4umisjftm0cscbf.lambda-url.us-east-1.on.aws/",
   deletePost: "https://knjnajr3zpxtypkgg7ay73tjsu0nibbh.lambda-url.us-east-1.on.aws/",
   getSubscribers: "https://shs22vd56jvibykk3e7snxhrli0hvqeq.lambda-url.us-east-1.on.aws/",
 };
